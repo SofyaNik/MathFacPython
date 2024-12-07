@@ -18,9 +18,12 @@
 1. Что мы хотим получить.
 2. Как это реализовать.
 <br>
-#### Пункт 1. Импортируем библиотеки
-import telebot
-import pandas as pd
+
+### Пункт 1. Импортируем библиотеки
+
+```import telebot<br>
+import pandas as pd```
+
 <br>
 
 telebot: это библиотека для работы с Telegram Bot API, которая позволяет создавать ботов для Telegram.
