@@ -1,10 +1,9 @@
 import telebot
 import pandas as pd
 
-bot = telebot.TeleBot('7725395067:AAG9kVmxkS86xIw-oS1xJDgImwFCdtsN4yw')
+bot = telebot.TeleBot('4834753573-sbjgbygbajgevaarv - и что-то подобное -сюда вы пишете свой токен')
 
 user_data = {}
-
 
 def load_data(department):
     sheet_name = 'Чистмат' if department == 'Чистмат' else 'Совбак'
