@@ -22,7 +22,8 @@
 ### Пункт 1. Импортируем библиотеки
 
 ```import telebot<br>
-import pandas as pd```
+import pandas as pd
+```
 
 <br>
 
